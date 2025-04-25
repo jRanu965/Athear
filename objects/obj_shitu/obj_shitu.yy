@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_shitu",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object7","path":"objects/Object7/Object7.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_shitu",
   "overriddenProperties":[],
@@ -32,5 +34,5 @@
     "path":"sprites/spr_shitu_blockers/spr_shitu_blockers.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
